@@ -63,7 +63,7 @@
 "You must be online to login to %@" = "Вы должны быть подключены к Интернет чтобы войти на %@";
 
 "Auto Share" = "Авто-отправка";
-"Enable auto share to skip this step in the future." = "Включите авто-отправку, чтобы пропустить это шаг в дальнейшем.";
+"Enable auto share to skip this step in the future." = "Включите авто-отправку, чтобы пропустить этот шаг в дальнейшем.";
 
 "You must be online in order to share with %@" = "Вы должны быть подключены к Интернет чтобы слать на %@";
 "There was an error while sharing" = "Произошла ошибка при oтправке";
